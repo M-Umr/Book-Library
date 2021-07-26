@@ -1,0 +1,55 @@
+.search{
+    padding-top: 20%;
+    padding-left: 30%;
+    padding-right: 18%;
+   overflow: hidden;
+   height: 80vh;
+   background-image: url('images/bookcover.jpg');
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+    color:white;
+}
+.search h2{
+    padding-left: 15%;
+}
+
+  
+
+
+.loginpadd{
+    padding-top: 10%;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.RegisterForm{
+    padding-left: 28%;
+    padding-right: 10%;
+    
+}
+.Success{
+    text-align:center;
+    background:#1cb7dac4;
+   
+}
+.error{
+    color:red;
+}
+
+.Registerr{
+    background-image: url('images/register.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.loginnpage{
+    
+    background: linear-gradient(120deg,#2980b9,#8e44ad);
+  height: 100vh;
+}
+.loginbackground{
+
+    background: white;
+    border-radius: 30px;
+    padding: 10%;
+}
